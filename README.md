@@ -1,4 +1,4 @@
-# Udacity-DataScience-Capestone-project
+# Udacity-DataScience-Capstone-project
 Udacity data science nanodegree project 4
 
 ### Table of contents
