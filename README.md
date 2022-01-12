@@ -21,7 +21,7 @@ Libraries:Scikit-learn, numpy, matplotlib, os, glob
 
 Have you ever had a time that when we walk on street or look on instagram, seen a cute dog and don’t know what breed it is. This is exhuasting for many of us, we are all dog lovers, so dog breed classifier comes handy for us. Why dog breed classifier is challenging? These 2 sets of dog comaprsion may give us a taste of it. Human eyes barely can tell the differences.
 
-![dashboard screenshot](Asset\img4.png)
+![dashboard screenshot](Asset/img4.png)
 
 
 ## File Descriptions <a name="files"></a>
@@ -44,26 +44,26 @@ I build a CNN using transfer learning to classify dog breeds that can reach 85% 
 
 what is an CNN, what is VGG16? etc
 
-![dashboard screenshot](Asset\img6.png)
+![dashboard screenshot](Asset/img6.png)
 
 
 How this classifier works?
 
-![dashboard screenshot](Asset\img3.png)
+![dashboard screenshot](Asset/img3.png)
 
 
 Before we dive into details, take a look of our dataset, human faces 
 
-![dashboard screenshot](Asset\img1.png)
+![dashboard screenshot](Asset/img1.png)
 
 
 How the classifier performs on test images?
 
-![dashboard screenshot](Asset\img16.png)
+![dashboard screenshot](Asset/img16.png)
 
 How the classifer performs in real life? 
 
-![dashboard screenshot](Asset\img18.png)
+![dashboard screenshot](Asset/img18.png)
 
 At the end, using ResNet-50 transfer learning we build a CNN can reach 85% test accuracy, which is perfect for us. Also there are some posiible improvements, all the detials is discussed in this [post](https://medium.com/@ruoruolove/dog-breed-classifierintroduction-95b76d57c164)
 
