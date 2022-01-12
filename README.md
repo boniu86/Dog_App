@@ -56,6 +56,10 @@ Before we dive into details, take a look of our dataset, human faces
 
 ![dashboard screenshot](Asset/img1.png)
 
+Dog breed image barplot to understand how our data distributed among breeds
+
+![dashboard screenshot](Asset/dog_breed_barplot.png)
+
 
 How the classifier performs on test images?
 
