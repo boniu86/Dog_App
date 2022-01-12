@@ -72,3 +72,6 @@ At the end, using ResNet-50 transfer learning we build a CNN can reach 85% test 
 
 Authors: [here](https://medium.com/@ruoruolove/dog-breed-classifierintroduction-95b76d57c164)
 
+
+
+
